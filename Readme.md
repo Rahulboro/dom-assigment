@@ -18,6 +18,14 @@
 
 ![Output](./Pic2.png)
 
+### SOLUTION 
+     - document.querySelector(".crayons-subtitle-2").innerHTML= "ujjal"
+     'ujjal'
+     - document.querySelector(".color-base-70").innerHTML= "I write code"
+     'I write code'
+## SOLUTION SCREENSHOT 
+![solution](./screenshots/Screenshot%202023-03-05%20at%2015.04.38.jpg)
+
 2. Website Name: [Apple](https://support.apple.com/en-in)
 
 ### Task
