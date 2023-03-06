@@ -38,6 +38,16 @@
 
 ['iPhone', 'Mac', 'iPad', 'Watch', 'AirPods', 'Music', 'TV']
 
+### SOLUTION
+     -let productarray = document.queryselector(".global-menu-list").innerText
+     -let newarray = []
+     for (let i = 0; i < productarray.length; i++){
+          newarray.push(productarray[i].textContent);
+     }
+     console.log(newarray)
+
+![array](./screenshots/2.jpg)
+
 3. Webiste Name: [Youtube Support](https://support.google.com/youtube/)
 
 ### Topics
