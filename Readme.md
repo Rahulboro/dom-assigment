@@ -50,6 +50,7 @@
 
 3. Webiste Name: [Youtube Support](https://support.google.com/youtube/)
 
+
 ### Topics
 
     - Get Element By Id, Create Element, Create Text Node, Append Child
@@ -65,6 +66,9 @@
 ### Output
 
 ![Output](./Pic5.png)
+
+### SOLUTION
+     - accordion-homepage
 
 4. Webiste Name: [OnePlus](https://www.oneplus.in/support)
 
@@ -83,6 +87,10 @@
 ### Output
 
 ![Output](./Pic7.png)
+### SOLUTION 
+     - let oneplustext = document.querySelector(".customer-support").innerText = "ujjal moni bordoloi"
+
+![SOLUTION 4](./screenshots/4.jpg)
 
 5. Webiste Name: [Samsung](https://www.samsung.com/in/offer/online/samsung-fest/)
 
