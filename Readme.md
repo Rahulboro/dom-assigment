@@ -109,6 +109,9 @@
 ### Output
 
 ![Output](./Pic9.png)
+### SOLUTION
+     - document.querySelector(".buynow").innerText = "checkout"
+[solution](./screenshots/5.jpg)
 
 6. Webiste Name: [Adidas](https://www.adidas.co.in/)
 
@@ -128,6 +131,8 @@
 
 ![Output](./Pic11.png)
 
+### SOLUTION 
+     - 
 7. Webiste Name: [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 ### Topics
