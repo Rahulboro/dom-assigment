@@ -24,7 +24,7 @@
      - document.querySelector(".color-base-70").innerHTML= "I write code"
      'I write code'
 ## SOLUTION SCREENSHOT 
-![solution](./screenshots/Screenshot%202023-03-05%20at%2015.04.38.jpg)
+![solution](./screenshots/1.jpg)
 
 2. Website Name: [Apple](https://support.apple.com/en-in)
 
@@ -132,7 +132,9 @@
 ![Output](./Pic11.png)
 
 ### SOLUTION 
-     - 
+     - let searchtext = document.querySelector("._wrapper_1f3oz_1")
+     searchtext.addEventListener('onmouseover', function redcolor() {document.body.querySelector("._wrapper_1f3oz_1").style.backgroundColor = redcolor
+    })
 7. Webiste Name: [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 ### Topics
