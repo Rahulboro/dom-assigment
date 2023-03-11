@@ -68,7 +68,9 @@
 ![Output](./Pic5.png)
 
 ### SOLUTION
-     - accordion-homepage
+     -let value 
+
+![Solution](./screenshots/3.jpg)
 
 4. Webiste Name: [OnePlus](https://www.oneplus.in/support)
 
@@ -153,6 +155,8 @@
 ### Output
 
 ![Output](./Pic13.png)
+
+
 
 8. Webiste Name: [Google](https://www.google.com/)
 
