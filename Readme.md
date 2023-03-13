@@ -156,6 +156,8 @@
 
 ![Output](./Pic13.png)
 
+### SOLUTION 
+     - 
 
 
 8. Webiste Name: [Google](https://www.google.com/)
@@ -176,8 +178,13 @@
 
 ![Output](./Pic15.png)
 
-9. Webiste Name: [Code Wars](https://www.codewars.com/)
+### SOLUTION 
+     -
 
+![SOLUTION](./screenshots/8.jpg)
+
+9. Webiste Name: [Code Wars](https://www.codewars.com/)
+                                                                                                              
 ### Topics
 
        Change Font Family, Color of Text.
@@ -187,6 +194,7 @@
 ![Sample One](./Pic16.png)
 
 ### Tasks
+
 
     Change the font family of the text to monospace and text color to the logo’s background color.
 
