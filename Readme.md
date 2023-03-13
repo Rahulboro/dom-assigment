@@ -201,6 +201,11 @@
 ### Output
 
 ![Output](./Pic17.png)
+### SOLUTION 
+     - let setcolor = document.querySelector(".text-align-center h1")
+     setcolor.style.color = '#FF4D4D'
+
+![solution](./screenshots/9.jpg)
 
 10. Webiste Name: [Freecodecamp](https://www.freecodecamp.org/)
 
