@@ -289,6 +289,9 @@ Target the top description and change “Matching developers with great companie
 ### Output
 
 ![Output](./Pic25.png)
+### SOLUTION 
+     -document.querySelector(".home22-intro-text p").innerText = "JSBOOTCAMP"
+![SOLUTION](./screenshots/13.jpg)
 
 14. Webiste Name: [Asus](https://www.asus.com/in/)
 
