@@ -224,6 +224,11 @@
 ### Output
 
 ![Output](./Pic19.png)
+### SOLUTION
+     - document.querySelector('.col-lg-offset-2 .login-btn-text').addEventListener("mouseover", function () { document.querySelector('.col-lg-offset-2 .login-btn-text').style.backgroundColor = "red"
+    
+})
+![SOLUTION](./screenshots/10.jpg)
 
 11. Webiste Name: [realme](https://www.realme.com/in/)
 
@@ -242,6 +247,9 @@
 ### Output
 
 ![Output](./Pic21.png)
+### SOLUTION 
+     -document.querySelector('.wrapper a').style.backgroundImage = "url('https://ineuron.ai/images/ineuron-logo.png')";
+![SOLUTION](./screenshots/11.jpg)
 
 12. Webiste Name: [Github](https://github.com/)
 
@@ -260,6 +268,9 @@
 ### Output
 
 ![Output](./Pic23.png)
+### SOLUTION 
+     -document.querySelector('.js-repos-container h2 a').style.backgroundColor = "Blue"
+![SOLUTION](./screenshots/12.jpg)
 
 13. Webiste Name: [Hackerrank](https://www.hackerrank.com/)
 
