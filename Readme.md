@@ -179,7 +179,12 @@
 ![Output](./Pic15.png)
 
 ### SOLUTION 
-     -
+     -let array = document.querySelectorAll('#SIvCob a')
+     for (i=0; i < array.length; i++){
+          if (i % 2 == 0 ){
+               array[i].remove()
+          }
+     }:
 
 ![SOLUTION](./screenshots/8.jpg)
 
@@ -310,7 +315,9 @@ Target the top description and change “Matching developers with great companie
 ### Output
 
 ![Output](./Pic27.png)
-
+### SOLUTION 
+     - document.querySelector(".HotDealsAll__HotCampaignsEventsContainer__FK0V2 .HotDealsAll__Heading__2fIbe").style.fontSize = "80px"
+![SOLUTION](./screenshots/14.jpg)
 15. Webiste Name: [Dell](https://www.dell.com/en-in/shop/deals/laptop-deals?gacd=10415953-9016-5761040-285981356-0&dgc=ST&gclid=Cj0KCQjwguGYBhDRARIsAHgRm4-XUDMhhVNyHXb3s1gY4ZBzORr_d9Se-buhJwy7asyUe7YdqEA11eEaAt6UEALw_wcB&gclsrc=aw.ds&nclid=BxjBlpBQsX6pjSHh-L8YYSU77EpfXRkG1AGMB5Wbeu386ykspfrPDnfx_DdFau20)
 
 ### Topics
@@ -328,6 +335,9 @@ Target the top description and change “Matching developers with great companie
 ### Output
 
 ![Output](./Pic29.png)
+### SOLUTION 
+     -document.querySelector(".ps-title").style.textAlign = "right"
+![SOLUTION](./screenshots/15.jpg)
 
 16. Webiste Name: [Vercel](https://vercel.com/)
 
@@ -338,7 +348,6 @@ Target the top description and change “Matching developers with great companie
 ### Sample Image
 
 ![Sample One](./Pic30.png)
-
 ### Tasks
 
       change the heading “Start with the developer” to “Start with Scratch”
@@ -346,6 +355,10 @@ Target the top description and change “Matching developers with great companie
 ### Output
 
 ![Output](./Pic31.png)
+### SOLUTION
+     -document.querySelector(".geist-wrapper .section-title_title__VEDfK").innerText = "Start With Scratch"
+
+![SOLUTION](./screenshots/16.jpg)
 
 17. Webiste Name: [Sony](https://www.sony.co.in/)
 
@@ -364,6 +377,9 @@ Target the top description and change “Matching developers with great companie
 ### Output
 
 ![Output](./Pic32.png)
+### SOLUTION
+     -let changeDate = new Date; document.querySelector('.btn-container').innerHTML = changeDate;
+![SOLUTION](./screenshots/17.jpg)
 
 18. Webiste Name: [Philips](https://www.philips.co.in/)
 
@@ -382,6 +398,9 @@ Target the top description and change “Matching developers with great companie
 ### Output
 
 ![Output](./Pic35.png)
+### SOLUTION
+     -document.querySelector('.p-f03v2__footer').style.backgroundColor = 'orange' ;
+![SOLUTION](./screenshots/18.jpg)
 
 19. Webiste Name: [Canon](https://in.canon/)
 
