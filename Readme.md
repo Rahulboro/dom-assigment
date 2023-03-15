@@ -157,8 +157,9 @@
 ![Output](./Pic13.png)
 
 ### SOLUTION 
-     - 
-
+     -  document.querySelector("#hp-search-input").value = "Search"
+     document.querySelector("#hp-search-form").submit()
+![SOLUTION](./screenshots/7.jpg)
 
 8. Webiste Name: [Google](https://www.google.com/)
 
@@ -419,6 +420,10 @@ Target the top description and change “Matching developers with great companie
 ### Output
 
 ![Output](./Pic37.png)
+### SOLUTION 
+     -let srclink = document.querySelector('.navbar-brand').innerHTML; 
+     console.log(srclink);
+![SOLUTION](./screenshots/19.jpg)
 
 20. Webiste Name: [Oppo](https://www.oppo.com/in/)
 
@@ -437,3 +442,5 @@ Target the top description and change “Matching developers with great companie
 ### Output
 
 ![Output](./Pic39.png)
+### SOLUTION
+![SOLUTION](./screenshots/20.jpg)
